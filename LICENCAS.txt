@@ -1,0 +1,10 @@
+# Licenças do Narrative
+
+Narrative, criado por DadoCWB.
+[itch.io](https://cwbdado.itch.io/) · [Bluesky](https://bsky.app/profile/cwbdado.bsky.social)
+
+O código original da plataforma é distribuído sob a licença MIT. Consulte LICENSE.txt.
+
+O guia, os modelos editáveis e todas as narrativas e séries do catálogo base, incluindo seus capítulos, roteiros e artes originais, são disponibilizados sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Ao compartilhar ou adaptar esses materiais, preserve os créditos indicados, inclua o link da licença e informe se fez alterações.
+
+Obras importadas, Ren'Py e materiais de terceiros seguem as licenças dos respectivos titulares.
