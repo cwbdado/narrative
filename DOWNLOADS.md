@@ -2,7 +2,7 @@
 
 ## Aplicativo para Windows
 
-**[Baixar Narrative 1.0 para Windows](https://github.com/cwbdado/narrative/releases/download/v1.0/Narrative-1.0-win.zip)**
+**[Baixar Narrative 1.1 para Windows](https://github.com/cwbdado/narrative/releases/download/v1.1/Narrative-1.1-win.zip)**
 
 Baixe e extraia o ZIP inteiro. Abra a pasta extraída e execute `Narrative.exe`.
 
@@ -17,8 +17,8 @@ No Narrative, abra **Opções → Gerenciar catálogo → Importar obra**. Selec
 
 ## Projeto Ren’Py
 
-**[Baixar Narrative-renpy.zip](https://github.com/cwbdado/narrative/releases/download/v1.0/Narrative-renpy.zip)**
+**[Baixar Narrative-1.1-renpy.zip](https://github.com/cwbdado/narrative/releases/download/v1.1/Narrative-1.1-renpy.zip)**
 
 Este ZIP é para quem quer consultar ou trabalhar com o projeto no Ren’Py.
 
-[Ver a release Narrative 1.0](https://github.com/cwbdado/narrative/releases/tag/v1.0)
+[Ver a release Narrative 1.1](https://github.com/cwbdado/narrative/releases/tag/v1.1)
